@@ -72,6 +72,7 @@ install_configs() {
         "shell/root.conf"
         "shell/00-env.conf" 
         "shell/01-git.conf"
+        "shell/02-claude.conf"
     )
     
     log_info "Downloading configuration files..."

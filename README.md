@@ -68,7 +68,8 @@ If you prefer to install manually:
 ~/.config/shell/
 ├── root.conf       # Main loader (sources all other configs)
 ├── 00-env.conf     # Environment and prompt settings
-└── 01-git.conf     # Git aliases and configurations
+├── 01-git.conf     # Git aliases and configurations
+└── 02-claude.conf  # Claude Code aliases (claudey)
 ```
 
 ## Uninstallation
